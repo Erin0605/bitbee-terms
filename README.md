@@ -1,2 +1,9 @@
-# bitbee-terms
-BitBee and hi!錢錢 Terms of Service
+# Bitbee × hi!錢錢活動條款
+
+Bitbee × hi!錢錢理財文章分享任務活動辦法暨使用者條款網站。
+
+- 活動規則版本：v1.1
+- 更新時間：2026 年 8 月 12 日 12:00（GMT+8）
+- 生效時間：2026 年 8 月 12 日 12:00（GMT+8）
+
+本網站由三智科技股份有限公司（Bitbee）維護。
