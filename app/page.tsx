@@ -147,17 +147,46 @@ export default function Home() {
       <main id="top">
         <section className="hero">
           <div className="hero-glow" />
-          <div className="eyebrow"><span /> 活動辦法暨使用者條款</div>
+          <div className="eyebrow"><span /> 理財文章分享任務</div>
           <h1>Bitbee <i>×</i> hi!錢錢<br /><strong>理財文章分享任務</strong></h1>
-          <p className="lead">參與任務前，請完整閱讀以下活動規則。完成任務提交，即表示您理解並同意本條款。</p>
-          <div className="meta-grid">
-            <div><small>規則版本</small><b>v1.1</b></div>
-            <div><small>更新時間</small><b>2026.08.12 12:00</b></div>
-            <div><small>生效時間</small><b>2026.08.12 12:00</b></div>
-            <div><small>適用時區</small><b>臺灣時間 GMT+8</b></div>
+          <div className="reward-summary">
+            <p>公開分享 1 次</p>
+            <strong>獲得 <mark>NT$10</mark> 等值 BTC</strong>
+            <span>每月有 12 次分享機會，最多可拿 NT$120 等值 BTC</span>
           </div>
-          <a className="read-button" href="#organizers">開始閱讀 <span>↓</span></a>
+          <div className="quick-rules">
+            <section className="how-to">
+              <h2>參加方式</h2>
+              <div className="steps">
+                <div><b>①</b><span><strong>選文章</strong><small>複製當期指定理財文章</small></span></div>
+                <div><b>②</b><span><strong>公開分享</strong><small>分享至 Facebook、Threads 或 Instagram 限時動態</small></span></div>
+                <div><b>③</b><span><strong>提交審核</strong><small>回到 Bitbee 提交分享網址與截圖</small></span></div>
+              </div>
+            </section>
+            <section className="count-card">
+              <h2>次數怎麼算？</h2>
+              <p><strong>1 篇文章 × 3 個平台</strong><span>＝最多 3 次</span></p>
+              <p><strong>每兩週更新 2 篇</strong><span>最多可分享 6 次</span></p>
+              <small>分享帳號與內容須公開；審核通過後，獎勵將於當期結算後統一發放。</small>
+            </section>
+            <section className="valid-card">
+              <h2>有效分享必須符合</h2>
+              <ul>
+                <li>使用本人持有或具有管理權限的社群帳號。</li>
+                <li>社群帳號及分享內容必須公開。</li>
+                <li>不得使用零粉絲、空白或明顯僅為領取獎勵而建立的帳號。</li>
+              </ul>
+            </section>
+          </div>
+          <div className="compact-meta">活動規則 v1.1　·　更新及生效：2026.08.12 12:00　·　臺灣時間 GMT+8</div>
+          <a className="read-button" href="#terms-start">閱讀完整活動條款 <span>↓</span></a>
         </section>
+
+        <div id="terms-start" className="terms-heading">
+          <span>FULL TERMS</span>
+          <h2>活動辦法暨使用者條款</h2>
+          <p>參與、提交任務或領取獎勵，即表示您已閱讀、理解並同意當時有效的活動條款。</p>
+        </div>
 
         <details className="mobile-toc">
           <summary>條款目錄 <span>共 18 章</span></summary>
