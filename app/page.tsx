@@ -151,8 +151,8 @@ export default function Home() {
           <h1>Bitbee <i>×</i> hi!錢錢<br /><strong>理財文章分享任務</strong></h1>
           <div className="reward-summary">
             <p>公開分享 1 次</p>
-            <strong>獲得 <mark>NT$10</mark> 等值 BTC</strong>
-            <span>每月有 12 次分享機會，最多可拿 NT$120 等值 BTC</span>
+            <strong>獲得 <mark>20 Honey</mark></strong>
+            <span>每月有 12 次分享機會，最多可拿 240 Honey</span>
           </div>
           <div className="quick-rules">
             <section className="how-to">
